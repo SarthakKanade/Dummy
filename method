@@ -1,0 +1,8 @@
+
+Git add. -> It adds the changes that you made to your code to the staging area
+
+Significance of. -> the dot over here signifies the files changed
+
+Git add. ->Means add all the files which have changed to staging area
+
+Git add "filename" ->Means add all the particular file which have changed to staging area
