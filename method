@@ -6,3 +6,10 @@ Significance of. -> the dot over here signifies the files changed
 Git add. ->Means add all the files which have changed to staging area
 
 Git add "filename" ->Means add all the particular file which have changed to staging area
+
+Git status -> used to see the changes made in the terminal, will show you the unstated or uncommitted changes 
+
+Git branch <branchname> -> used to create new branch from current branch in git
+
+Git checkout <branchname> -> used to switch to that branch
+
